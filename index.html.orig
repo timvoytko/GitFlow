@@ -6,10 +6,14 @@
 </head>
 <body>
     <h1>Hi Alex!</h1>
-<<<<<<< HEAD
     <div>You are the best!</div>
-=======
+<select>
+  <option value="1">One</option>
+  <option value="2">Two</option>
+
+</select>
+
     <h2>Merge it2!</h2>
->>>>>>> dc05898 (merge it 2)
+
 </body>
 </html>
